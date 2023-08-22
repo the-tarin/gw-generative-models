@@ -1,6 +1,9 @@
 # env
 gw-env
 
+# output generated signals
+data/gw-dcgans-images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
