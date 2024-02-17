@@ -2,6 +2,9 @@
 gw-env
 venv
 
+# models
+models
+
 # plots
 plots
 
